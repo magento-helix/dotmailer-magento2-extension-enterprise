@@ -12,9 +12,9 @@
   ],
   "require": {
     "dotmailer/dotmailer-magento2-extension": ">=3.0.2",
-    "magento/module-reward": ">=100 <102",
-    "magento/module-customer-segment": ">=100 <103",
-    "magento/module-store": ">=100 <102"
+    "magento/module-reward": "*",
+    "magento/module-customer-segment": "*",
+    "magento/module-store": "*"
   },
   "authors": [
     {
