@@ -9,13 +9,13 @@
           "type": "composer",
           "url": "https://repo.magento.com/"
       },
-      "dotmailer-magento2-extension-enterprise": {
+      "dotmailer-magento2-extension": {
           "type": "git",
           "url": "https:\/\/github.com\/magento-helix\/dotmailer-magento2-extension"
       }
   },
   "require": {
-    "dotmailer/dotmailer-magento2-extension": "fix-relations-dev-dev",
+    "dotmailer/dotmailer-magento2-extension": "fix-relations-dev",
     "magento/module-reward": "*",
     "magento/module-customer-segment": "*",
     "magento/module-store": "*"
